@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+temp/
+build/
+*.ovpn
+*.pem
+*.key
+*.p12
+*.pfx
